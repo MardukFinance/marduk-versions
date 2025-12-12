@@ -20,13 +20,13 @@
         "checkOnLaunch": true,
         "platformOverrides": {
           "ios": {
-            "minSupportedVersion": "1.0.0+67",
-            "latestVersion": "1.0.0+67",
+            "minSupportedVersion": "1.0.0+68",
+            "latestVersion": "1.0.0+68",
             "storeUrl": "https://apps.apple.com/app/idXXXX"
           },
           "android": {
-            "minSupportedVersion": "1.0.0+67",
-            "latestVersion": "1.0.0+67",
+               "minSupportedVersion": "1.0.0+68",
+            "latestVersion": "1.0.0+68",
             "storeUrl": "https://play.google.com/store/apps/details?id=com.mardukfinance.mardukfinance"
           }
         }
