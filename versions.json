@@ -3,6 +3,7 @@
     "mardukfinance": {
       "name": "Marduk Finance",
       "description": "Flutter mobile application",
+
       "version": {
         "major": 1,
         "minor": 0,
@@ -11,6 +12,26 @@
         "versionString": "1.0.0",
         "fullVersion": "1.0.0+67"
       },
+
+      "updatePolicy": {
+        "minSupportedVersion": "1.0.0+70",
+        "latestVersion": "1.0.2+80",
+        "forceUpdate": true,
+        "checkOnLaunch": true,
+        "platformOverrides": {
+          "ios": {
+            "minSupportedVersion": "1.0.0+72",
+            "latestVersion": "1.0.2+80",
+            "storeUrl": "https://apps.apple.com/app/idXXXX"
+          },
+          "android": {
+            "minSupportedVersion": "1.0.0+70",
+            "latestVersion": "1.0.2+80",
+            "storeUrl": "https://play.google.com/store/apps/details?id=com.mardukfinance.mardukfinance"
+          }
+        }
+      },
+
       "platforms": {
         "ios": {
           "versionName": "1.0.0",
@@ -40,12 +61,15 @@
           "build": 67
         }
       },
-      "lastUpdated": "2024-01-01T00:00:00Z",
+
       "releaseNotes": {
         "tr": "İlk sürüm",
         "en": "Initial release"
-      }
+      },
+
+      "lastUpdated": "2024-01-01T00:00:00Z"
     },
+
     "backend": {
       "name": "Marduk Finance Backend",
       "description": "Backend API service",
@@ -55,13 +79,14 @@
         "patch": 0,
         "versionString": "1.0.0"
       },
-      "lastUpdated": "2024-01-01T00:00:00Z",
       "apiVersion": "v1",
+      "lastUpdated": "2024-01-01T00:00:00Z",
       "releaseNotes": {
         "tr": "İlk sürüm",
         "en": "Initial release"
       }
     },
+
     "web": {
       "name": "Marduk Finance Web",
       "description": "Web application",
@@ -78,11 +103,12 @@
       }
     }
   },
+
   "metadata": {
-    "schemaVersion": "1.0.0",
-    "lastSync": "2024-01-01T00:00:00Z",
+    "schemaVersion": "1.1.0",
     "versioningStandard": "Semantic Versioning (SemVer) 2.0.0",
-    "description": "Centralized version management repository for all Marduk Finance projects"
+    "environment": "production",
+    "lastSync": "2024-01-01T00:00:00Z",
+    "description": "Centralized version and update policy management for all Marduk Finance projects"
   }
 }
-
