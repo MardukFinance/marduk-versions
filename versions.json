@@ -20,7 +20,7 @@
         "checkOnLaunch": true,
         "platformOverrides": {
           "ios": {
-            "minSupportedVersion": "1.0.0+72",
+            "minSupportedVersion": "1.0.0+68",
             "latestVersion": "1.0.2+80",
             "storeUrl": "https://apps.apple.com/app/idXXXX"
           },
