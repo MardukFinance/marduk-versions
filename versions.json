@@ -10,11 +10,11 @@
         "patch": 0,
         "build": 67,
         "versionString": "1.0.0",
-        "fullVersion": "1.0.0+68"
+        "fullVersion": "1.0.0+67"
       },
 
       "updatePolicy": {
-        "minSupportedVersion": "1.0.0+70",
+        "minSupportedVersion": "1.0.0+67",
         "latestVersion": "1.0.2+80",
         "forceUpdate": true,
         "checkOnLaunch": true,
