@@ -1,1 +1,13 @@
-
+{
+  "projects": {
+    "mardukfinance": {
+      "maintenance": {
+        "enabled": true,
+        "title": {"en": "Maintenance", "tr": "Bakım"},
+        "message": {"en": "Back soon!", "tr": "Yakında!"},
+        "estimatedEndTime": "2025-12-25T18:00:00Z",
+        "allowedVersions": []
+      }
+    }
+  }
+}
