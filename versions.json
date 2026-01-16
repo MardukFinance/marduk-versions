@@ -12,8 +12,8 @@
             "storeUrl": "https://apps.apple.com/tr/app/marduk-finance/id6752122867"
           },
           "android": {
-            "minSupportedVersion": "1.0.3+96",
-            "latestVersion": "1.0.3+96",
+            "minSupportedVersion": "1.0.7+100",
+            "latestVersion": "1.0.7+100",
             "storeUrl": "https://play.google.com/store/apps/details?id=com.mardukfinance.mardukfinance"
           }
         }
