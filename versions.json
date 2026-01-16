@@ -25,8 +25,8 @@
             "storeUrl": "https://apps.apple.com/app/idXXXX"
           },
           "android": {
-            "minSupportedVersion": "1.0.3+93",
-            "latestVersion": "1.0.3+93",
+            "minSupportedVersion": "1.0.2+93",
+            "latestVersion": "1.0.2+93",
             "storeUrl": "https://play.google.com/store/apps/details?id=com.mardukfinance.mardukfinance"
           }
         }
