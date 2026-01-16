@@ -6,7 +6,7 @@
         "title": {"en": "Maintenance", "tr": "Bakım"},
         "message": {"en": "Back soon!", "tr": "Yakında!"},
         "estimatedEndTime": "2026-01-01T09:00:00Z",
-        "allowedVersions": []
+        "allowedVersions": [1.0.2+93,1.0.1+93]
       }
     }
   }
