@@ -2,10 +2,10 @@
   "projects": {
     "mardukfinance": {
       "maintenance": {
-        "enabled": true,
+        "enabled": false,
         "title": {"en": "Maintenance", "tr": "Bakım"},
         "message": {"en": "Back soon!", "tr": "Yakında!"},
-        "estimatedEndTime": "2026-02-04T13:30:00Z",
+        "estimatedEndTime": "2026-01-01T13:30:00Z",
         "allowedVersions": []
       }
     }
