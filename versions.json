@@ -8,7 +8,7 @@
         "platformOverrides": {
           "ios": {
             "minSupportedVersion": "1.0.17+99",
-            "latestVersion": "1.0.17+99",
+            "latestVersion": "1.0.35",
             "storeUrl": "https://apps.apple.com/tr/app/marduk-finance/id6752122867"
           },
           "android": {
