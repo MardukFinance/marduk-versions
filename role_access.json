@@ -9,7 +9,7 @@
         "USER": { "fullAccess": false },
         "SILVER": { "fullAccess": false },
         "GOLD": { "fullAccess": false },
-        "PLATINUM": { "fullAccess": true },
+        "PLATINUM": { "fullAccess": false },
         "ADMIN": { "fullAccess": true }
       }
     }
