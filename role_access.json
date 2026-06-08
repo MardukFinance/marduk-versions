@@ -6,9 +6,9 @@
       "fallbackToApiOnError": true,
       "roles": {
         "GUEST": { "fullAccess": false },
-        "USER": { "fullAccess": true },
-        "SILVER": { "fullAccess": true },
-        "GOLD": { "fullAccess": true },
+        "USER": { "fullAccess": false },
+        "SILVER": { "fullAccess": false },
+        "GOLD": { "fullAccess": false },
         "PLATINUM": { "fullAccess": true },
         "ADMIN": { "fullAccess": true }
       }
