@@ -7,7 +7,7 @@
       "roles": {
         "GUEST": { "fullAccess": false },
         "USER": { "fullAccess": true },
-        "SILVER": { "fullAccess": true },
+        "SILVER": { "fullAccess": false },
         "GOLD": { "fullAccess": true },
         "PLATINUM": { "fullAccess": true },
         "ADMIN": { "fullAccess": true }
