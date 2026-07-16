@@ -10,6 +10,7 @@
         "SILVER": { "fullAccess": true },
         "GOLD": { "fullAccess": true },
         "PLATINUM": { "fullAccess": true },
+        "PARTNER": { "fullAccess": true },
         "ADMIN": { "fullAccess": true }
       }
     }
