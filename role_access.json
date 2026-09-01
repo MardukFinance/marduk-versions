@@ -5,11 +5,11 @@
       "enabled": true,
       "fallbackToApiOnError": true,
       "roles": {
-        "GUEST": { "fullAccess": false },
+        "GUEST": { "fullAccess": true },
         "USER": { "fullAccess": true },
-        "SILVER": { "fullAccess": false },
+        "SILVER": { "fullAccess": true },
         "GOLD": { "fullAccess": true },
-        "PLATINUM": { "fullAccess": false },
+        "PLATINUM": { "fullAccess": true },
         "PARTNER": { "fullAccess": true },
         "ADMIN": { "fullAccess": true }
       }
