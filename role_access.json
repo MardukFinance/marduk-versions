@@ -5,7 +5,7 @@
       "enabled": true,
       "fallbackToApiOnError": true,
       "roles": {
-        "GUEST": { "fullAccess": false },
+        "GUEST": { "fullAccess": true },
         "USER": { "fullAccess": true },
         "SILVER": { "fullAccess": true },
         "GOLD": { "fullAccess": true },
