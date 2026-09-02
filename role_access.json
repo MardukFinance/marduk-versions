@@ -5,13 +5,13 @@
       "enabled": true,
       "fallbackToApiOnError": true,
       "roles": {
-        "GUEST": { "fullAccess": true },
-        "USER": { "fullAccess": true },
-        "SILVER": { "fullAccess": true },
-        "GOLD": { "fullAccess": true },
-        "PLATINUM": { "fullAccess": true },
-        "PARTNER": { "fullAccess": true },
-        "ADMIN": { "fullAccess": true }
+        "GUEST": { "fullAccess": false },
+        "USER": { "fullAccess": false },
+        "SILVER": { "fullAccess": false },
+        "GOLD": { "fullAccess": false },
+        "PLATINUM": { "fullAccess": false },
+        "PARTNER": { "fullAccess": false },
+        "ADMIN": { "fullAccess": false }
       }
     }
   }
